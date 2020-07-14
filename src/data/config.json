@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Who is the Prime Minister of India ?",
+            "options": [
+                "Rahul Gandhi",
+                "Yogi Adityanath",
+                "Narendra Modi",
+                "Amit Shah"
+            ],
+            "answer": "Narendra Modi"
+        },
+        {
+            "id": 2,
+            "question": "React is library based on which language ?",
+            "options": [
+                "C",
+                "Java",
+                "PHP",
+                "Javascript"
+            ],
+            "answer": "Javascript"
+        },
+        {
+            "id": 3,
+            "question": "Node JS is built with which language ?",
+            "options": [
+                "C++",
+                "Java",
+                "Javascript",
+                "PHP"
+            ],
+            "answer": "C++"
+        }
+    ]
+}
